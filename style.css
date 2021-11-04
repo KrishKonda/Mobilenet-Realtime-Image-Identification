@@ -17,7 +17,9 @@
 }
 .result_para_tag{
   float:none;
+  display:inline-block;
   font-size:20;
+  white-space:pre-line;
 box-shadow: 5px 5px 5px orangered;
 }
 .copy_right_footer{
